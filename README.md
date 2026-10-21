@@ -3,9 +3,9 @@
 <p align="center"><b>PUBLIC PROJECT · ПУБЛИЧНЫЙ ПРОЕКТ</b><br>
 <a href="https://github.com/svllvsxprod/gamestrack-releases">Original repository / Оригинальный репозиторий ↗</a> · <a href="https://github.com/svllvsx">Portfolio / Портфолио</a></p>
 
-> **Public game tracker downloads.** Публичные сборки трекера игр.
-> This is a README showcase. Source code, releases and development instructions belong to the original repository.
-> Это README-витрина. Исходники, релизы и команды разработки относятся к оригинальному репозиторию.
+> **GamesTrack** · Календарь игровых релизов и личная коллекция.
+> This is a README showcase. Public releases and product documentation are maintained in the original repository. The application source code remains private.
+> Это README-витрина. Публичные релизы и документация находятся в оригинальном репозитории. Исходный код приложения остаётся приватным.
 
 ---
 
